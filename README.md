@@ -14,7 +14,7 @@ En la base de datos se contemplarán los elementos anteriormente listados y otro
 La aplicación Web ha de contemplar la siguiente operativa :
 - Index Inicio de sesión con opción de registrarse a través de un formulario
 - Debe ofrecer al usuario con rol user una vista que contenga los siguientes apartados:
-  - Mostrar carta estelar (Vista con todos los destinos, vuelos, escalas, ect...)
+  - Mostrar carta estelar (vista con todos los destinos, vuelos, escalas, ect...)
   - Ver perfil en el mismo se mostrará toda la información relevante como:
     - Visualizar vuelos o transbordos comprados con toda la información relevante de los mismos
     - Visualizar hilos abiertos con referencia de los vuelos o transbordos sobre los que se han abierto
