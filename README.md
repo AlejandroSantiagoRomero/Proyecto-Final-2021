@@ -8,7 +8,7 @@ El modelo de Negocios consta de las siguientes partes
 -Vuelos
 -Naves
 -Escalas
-En la base de datos se conteplaran los elementos anteriormente listado y otros no mostrados despues de realizar las adptaciones extrictamente necesarias para su creacion se añadiran datos a la misma.
+En la base de datos se conteplaran los elementos anteriormente listado y otros no mostrados despues de realizar las adptaciones extrictamente necesarias para su creacion se añadiran datos a la misma Markup :
 
 La aplicaion Web a De conteplar la siguiente operativa:
 -Index Inicio de sesion con opcion de registrarse atraves de un formulario
