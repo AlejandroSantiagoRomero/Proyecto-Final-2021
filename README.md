@@ -8,6 +8,7 @@ El modelo de negocios consta de las siguientes partes :
  - Vuelos
  - Naves
  - Escalas
+
 En la base de datos se contemplarán los elementos anteriormente listados y otros no mostrados, después de realizar las adaptaciones extrictamente necesarias para su creación se añadirán datos a la misma.
 
 La aplicación Web ha de contemplar la siguiente operativa :
