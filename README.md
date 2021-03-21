@@ -1,6 +1,6 @@
 # Proyecto-Final-2021
 Proyecto web en el que se desarrollara un modelo de negocio orientado a una empresa de viajes interplanetarios.
-El modelo de Negocios consta de las siguientes partes
+El modelo de Negocios consta de las siguientes partes :
 -Clientes
 -Administradores
 -Soporte Tecnico
@@ -8,9 +8,9 @@ El modelo de Negocios consta de las siguientes partes
 -Vuelos
 -Naves
 -Escalas
-En la base de datos se conteplaran los elementos anteriormente listado y otros no mostrados despues de realizar las adptaciones extrictamente necesarias para su creacion se añadiran datos a la misma Markup :
+En la base de datos se conteplaran los elementos anteriormente listado y otros no mostrados despues de realizar las adptaciones extrictamente necesarias para su creacion se añadiran datos a la misma.
 
-La aplicaion Web a De conteplar la siguiente operativa:
+La aplicaion Web a De conteplar la siguiente operativa :
 -Index Inicio de sesion con opcion de registrarse atraves de un formulario
 -Deve ofrecer al usuario con rol user una vista que contenga los siguientes apartados:
   -Mostrar cartes estelar (Vista con todos los destinos vuelos escalas destinos ect...)
