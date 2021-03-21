@@ -29,5 +29,6 @@ La aplicación Web ha de contemplar la siguiente operativa :
  - Visualización de todos los hilos abiertos por los diferentes usuarios de la página
  - Posibilidad de gestionar los hilos pudiendo responderlos o eleminarlos según se estime oportuno
  - Cerrar sesión
+
 Cabe aclarar que, cada usuario con rol user podrá añadir una reseña así como abrir un hilo en sus diferntes vuelos o transbordos realizados o por realizar
 pudiendo así informar de un problema o notificar de un error en la web.
