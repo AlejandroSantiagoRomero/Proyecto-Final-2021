@@ -4,7 +4,7 @@ El modelo de negocios consta de las siguientes partes :
  - Clientes
  - Administradores
  - Soporte Técnico
- - Publicación(hilo)
+ - Publicación (hilo)
  - Vuelos
  - Naves
  - Escalas
