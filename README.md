@@ -19,12 +19,12 @@ La aplicación Web ha de contemplar la siguiente operativa :
     - Visualizar vuelos o transbordos comprados con toda la información relevante de los mismos
     - Visualizar hilos abiertos con referencia de los vuelos o transbordos sobre los que se han abierto
     - Cancelar pedido
- - Cerrar sesión
+  - Cerrar sesion
 - Debe ofrecer al usuario con rol admin una vista que contenga los siguientes apartados:
- - Visualizar todos los usuarios registrados y su información
- - Visualizar todos los vuelos
- - Administrador de vuelos donde el usuario podra añadir, borrar o modificar los vuelos que existen en ese momento en la base de datos
- - Cerrar sesión
+  - Visualizar todos los usuarios registrados y su información
+  - Visualizar todos los vuelos
+  - Administrador de vuelos donde el usuario podra añadir, borrar o modificar los vuelos que existen en ese momento en la base de datos
+  - Cerrar sesión
 - Debe ofrecer al usuario con rol support una vista que contenga los siguientes apartados:
  - Visualización de todos los hilos abiertos por los diferentes usuarios de la página
  - Posibilidad de gestionar los hilos pudiendo responderlos o eleminarlos según se estime oportuno
