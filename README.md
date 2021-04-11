@@ -26,9 +26,9 @@ La aplicación Web ha de contemplar la siguiente operativa :
   - Administrador de vuelos donde el usuario podra añadir, borrar o modificar los vuelos que existen en ese momento en la base de datos
   - Cerrar sesión
 - Debe ofrecer al usuario con rol support una vista que contenga los siguientes apartados:
- - Visualización de todos los hilos abiertos por los diferentes usuarios de la página
- - Posibilidad de gestionar los hilos pudiendo responderlos o eleminarlos según se estime oportuno
- - Cerrar sesión
+  - Visualización de todos los hilos abiertos por los diferentes usuarios de la página
+  - Posibilidad de gestionar los hilos pudiendo responderlos o eleminarlos según se estime oportuno
+  - Cerrar sesión
 
 Cabe aclarar que, cada usuario con rol user podrá añadir una reseña así como abrir un hilo en sus diferentes vuelos o transbordos realizados o por realizar
 pudiendo así informar de un problema o notificar de un error en la web.
